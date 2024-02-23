@@ -5,7 +5,7 @@
 
 ### Download exporter:
 ```bash 
-wget <release_url>
+wget https://github.com/EvgenyKhlivetsky/namada-exporter/releases/download/v0.1.0/namada-exporter-linux-x86_64
 ```
 ### Or build from source:
 1. Install bun(JavaScript runtime) https://bun.sh Rust Cargo and Node.js
