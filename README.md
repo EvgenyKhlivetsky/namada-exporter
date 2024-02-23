@@ -1,6 +1,9 @@
 # namada-exporter
 > Namada exporter for Prometheus
 
+## Grafana dashboard
+Check out this [repo](https://github.com/EvgenyKhlivetsky/namada-validator-dashboard-grafana)
+
 ## Install
 
 ### Download exporter:
