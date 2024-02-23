@@ -33,7 +33,6 @@ port = 3000
 validator_tm_address = "tnam..."
 validator_http_rpc = "http://localhost:26657"
 ```
-Look at [config.example.toml](config.example.toml) for more details
 ### Run
 ```bash
 ./namada-exporter start --config config.toml
